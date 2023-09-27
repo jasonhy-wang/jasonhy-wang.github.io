@@ -6,6 +6,8 @@
 
 > This repo is a clone of https://github.com/varadbhogayata/varadbhogayata.github.io
 
+> URL for published Site https://jasonhy-wang.github.io/
+
 ![GitHub stars](https://img.shields.io/github/stars/varadbhogayata/varadbhogayata.github.io) 
 ![GitHub forks](https://img.shields.io/github/forks/varadbhogayata/varadbhogayata.github.io)
 [![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/varadbhogayata/varadbhogayata.github.io/commits/master)
@@ -14,12 +16,9 @@
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 ### Website Preview
-<p align="center"> 
-  <kbd>
-    <a href="https://varadbhogayata.github.io" target="_blank"><img src="examples/preview.gif">
-  </a>
-  </kbd>
-</p>
+[Screenshot 2023-09-27 at 6 19 03 PM](https://github.com/jasonhy-wang/jasonhy-wang.github.io/assets/38818672/11116feb-38ae-4f3d-999b-3757ab0aa2c0)
+
+
 
 :star: Star me on GitHub — it helps!
 
