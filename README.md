@@ -16,7 +16,13 @@
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 ### Website Preview
-[Screenshot 2023-09-27 at 6 19 03 PM](https://github.com/jasonhy-wang/jasonhy-wang.github.io/assets/38818672/11116feb-38ae-4f3d-999b-3757ab0aa2c0)
+<p align="center"> 
+  <kbd>
+    <a href="https://varadbhogayata.github.io](https://jasonhy-wang.github.io" target="_blank"><img src="screenshot-directory/Deployed  Site- Home Page.png">
+  </a>
+  </kbd>
+</p>
+
 
 
 
