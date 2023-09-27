@@ -18,7 +18,7 @@
 ### Website Preview
 <p align="center"> 
   <kbd>
-    <a href="https://varadbhogayata.github.io](https://jasonhy-wang.github.io" target="_blank"><img src="screenshot-directory/Deployed  Site- Home Page.png">
+    <a href="https://varadbhogayata.github.io](https://jasonhy-wang.github.io" target="_blank"><img src="screenshot-directory/Activity 2 - Deployed Site.png">
   </a>
   </kbd>
 </p>
