@@ -1,5 +1,7 @@
 # Jason Wang - Personal Portfolio ⚡️ 
 
+> Directory for screenshots https://github.com/jasonhy-wang/jasonhy-wang.github.io/tree/main/screenshot-directory
+
 > A clean, beautiful, responsive portfolio template for Software Developers!
 
 > This repo is a clone of https://github.com/varadbhogayata/varadbhogayata.github.io
