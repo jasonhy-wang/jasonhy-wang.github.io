@@ -21,3 +21,9 @@ Deployed Home Page with blue theme
 <img src="screenshot-directory/Activity 3 - Deplyoed Site.png">
 Repo Page
 <img src="screenshot-directory/Activity 3 - Repo.png">
+
+## Activity 4
+Places travelled map section 
+<img src="screenshot-directory/Activity 4 - map.png">
+Repo Page
+<img src="screenshot-directory/Activity 4 - Repo.png">
